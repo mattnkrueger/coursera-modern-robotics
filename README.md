@@ -11,7 +11,7 @@ I took this course as I never took a robotics course in college and wanted a gen
   <img src="tags/coursera.svg" width="144" alt="Coursera" />
   <img src="tags/handwritten.svg" width="171" alt="Handwritten" />
   <img src="tags/python.svg" width="60" alt="Python" />
-  <img src="tags/copelliasim.svg" width="237" alt="CopelliaSim" />
+  <img src="tags/coppeliasim.svg" width="237" alt="CopelliaSim" />
 </div>
 
 ---
